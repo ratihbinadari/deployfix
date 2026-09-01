@@ -102,7 +102,7 @@ st.markdown(
         }
 
         html, body, [class*="css"] {
-            font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+            font-family: 'Poppins', 'Helvetica Neue', Poppins, sans-serif;
         }
 
         .stApp {

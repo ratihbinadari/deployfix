@@ -102,7 +102,7 @@ st.markdown(
         }
 
         html, body, [class*="css"] {
-            font-family: 'Poppins', 'Helvetica Neue', Poppins, sans-serif;
+            font-family: Poppins;
         }
 
         .stApp {
